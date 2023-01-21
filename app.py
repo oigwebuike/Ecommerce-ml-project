@@ -1,6 +1,16 @@
 import pickle
+import sklearn
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+from xgboost import XGBRegressor as XGBLR
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression as SKLR
+
+from sklearn.metrics import r2_score
+from sklearn.metrics import mean_squared_error as MSE
+from sklearn.preprocessing import StandardScaler
 from flask import Flask, request, app, jsonify, url_for, render_template 
 
 
