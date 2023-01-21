@@ -4,10 +4,10 @@
 -  The project uses a sample dataset and a Flask app to serve as the backend for the deployed model.
 
 ### Software and tools required
-- 1. A Github account: [GitHub](https://github.com/) and [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
-- 2. An IDE: [VSCode](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/)
-- 3. A Heroku account: [Heroku](https://id.heroku.com/login)
-- 4. A Docker account: [Docker](https://www.docker.com/)
+1. A Github account: [GitHub](https://github.com/) and [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+2. An IDE: [VSCode](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/)
+3. A Heroku account: [Heroku](https://id.heroku.com/login)
+4. A Docker account: [Docker](https://www.docker.com/)
 
 
 ### Requirements
